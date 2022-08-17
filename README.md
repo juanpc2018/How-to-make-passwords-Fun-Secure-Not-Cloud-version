@@ -30,13 +30,13 @@ https://www.imdb.com/title/tt0095953/
 
 Idea #1.
 for people that like to measure...
-There are Calippers Mitutoyo clones, that have a port to usb device,
+There are Calipers Mitutoyo clones, that have a port to usb device,
 the optional usb dongle, at the push of a button sends the measured distance as txt to PC.
-The better the calipper, the more decimals, and the more accurate is the repetition of the measurement,
+The better the caliper, the more decimals, and the more accurate is the repetition of the measurement,
 The idea of using a Ruler as a password is that:
 "Only you know the distance"
-can be any number, calipper comes from 6" 8" 10" 12" 24" 40"
-basic calippers have inches or milimeters,
+can be any number, caliper comes from 6" 8" 10" 12" 24" 40"
+basic calipers have inches or milimeters,
 but more advanced also has fractions: 1/128 of an inch.
 
 most websites do Not allow Only Numbers,
