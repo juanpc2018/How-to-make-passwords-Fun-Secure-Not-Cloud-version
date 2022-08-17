@@ -6,7 +6,10 @@ https://nitter.ca/pic/media%2FFaWdwdEXoAEfMd0.jpg%3Fname%3Dlarge
 
 
 and i had to see if was true:
+https://github.com/danielmiessler/SecLists/pull/155
 https://github.com/danielmiessler/SecLists/pull/191
+
+Not only 1 but 2.
 
 Passwords are becoming a problem for many people,
 too many forums, too many emails, too many passwords...
