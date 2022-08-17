@@ -48,31 +48,34 @@ some USB dongles are wireless.
 This password method is Not NSA level, but its fun.
 for example:
 Pi3.1415
-the 3.1415 is the push of a button, very fast & fun.
+the 3.1415 is the push of a button, very easy & fun.
 
-wham makes people get bored with passwords is the time wasted,
+what makes people get bored with passwords is the time wasted,
 just think how much time you waste in your life typing "secure" passwords.
+Saving Time is key.
 
 Idea #2.
-like the movie the goonies organ scene,
+like the movie The Goonies organ scene,
 there is a simple software called MIDI-OX
 http://www.midiox.com/
-combined with a MIDI Keyboard or a Virtual Midi Piano Keyboard,
+combined with a real MIDI Keyboard or a Virtual Midi Piano Keyboard,
 
 works in Wine / PlayOnLinux / PlayOnMac / Bottles / Crossover
-simply shows Midi information as Hexadecima value.
+shows Midi information as Hexadecima value.
 MIDI is 7-Bits = 128 "0-127"
-has many different kind or MIDI messages,
+and has many different kinds of MIDI messages,
 Note On / Off, Volume, Pan and 128 continuos controllers: MSB, LSB, etc...
 Pitch Bend is 14-Bit,
 
 you simply remember a short combination, a melody, Tune or chord
-the software gives you a long Hexadecimal value, simply copy & paste.
+the software gives you a long Hexadecimal value, you simply copy & paste.
 
-problem if this method is that most login and passwords are limited to 40 characters.
+problem of this method is that most login and passwords are limited to 40 characters.
 in theory this is the safest method against BruteForce attack,
-because the password is easy to remember, but generates a very long string of characters.
-One tune for the log-in, the second part of the tune, or another tune for the password.
+because the password is easy to remember, and generates a very long string of characters.
+One tune for the log-in, another tune for the password.
+impossible to break by CPU & GPU brute force softwares like:
+ParallelPasswordRecovery.com
 
 This makes me think that some software and websites that limit password lenght,
 to only 40 characters, is very suspicious.
