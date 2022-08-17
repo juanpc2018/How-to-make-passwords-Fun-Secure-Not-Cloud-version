@@ -57,7 +57,7 @@ Saving Time is key.
 Idea #2.
 like the movie The Goonies organ scene,
 https://youtu.be/pUO7Ip0Xc10
-there is a simple software called MIDI-OX
+there is a software called MIDI-OX
 http://www.midiox.com/
 combined with a real MIDI Keyboard or a Virtual Midi Piano Keyboard,
 
