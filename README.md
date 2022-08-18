@@ -61,7 +61,11 @@ there is a software called MIDI-OX
 http://www.midiox.com/
 combined with a real MIDI Keyboard or a Virtual Midi Piano Keyboard, https://vmpk.sourceforge.io/#Download
 
-works in Wine / PlayOnLinux / PlayOnMac / Bottles / Crossover
+https://sourceforge.net/projects/vmpk/files/vmpk/
+OSX
+https://sourceforge.net/projects/vmpk/files/vmpk/0.8.3/
+
+MIDI-OX works in Wine / PlayOnLinux / PlayOnMac / Bottles / Crossover
 shows Midi information as Hexadecima value.
 MIDI is 7-Bits = 128 "0-127"
 and has many different kinds of MIDI messages,
