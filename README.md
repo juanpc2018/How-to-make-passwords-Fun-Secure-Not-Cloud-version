@@ -1,15 +1,13 @@
 # How-to-make-passwords-Fun-Secure-Not-Cloud-version
 
-there is a meme on internet:
+There is a meme on internet:
 https://nitter.ca/pic/media%2FFaWdwdEXoAEfMd0.jpg%3Fname%3Dlarge
 ![image](https://user-images.githubusercontent.com/33388902/185253605-37c40849-ac00-46c1-8aee-230ff7189733.png)
 
 
 and i had to see if was true:
-https://github.com/danielmiessler/SecLists/pull/155
+https://github.com/danielmiessler/SecLists/pull/155 - 
 https://github.com/danielmiessler/SecLists/pull/191
-
-Not only 1 but 2.
 
 Passwords are becoming a problem for many people,
 too many forums, too many emails, too many passwords...
